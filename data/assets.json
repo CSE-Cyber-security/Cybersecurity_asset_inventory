@@ -1,0 +1,22 @@
+[
+    {
+        "Asset ID": "A101",
+        "Asset Name": "HR-PC-01 updated",
+        "Asset Type": "Workstation",
+        "IP Address": "192.168.1.10",
+        "Operating System": "WINDOWS 11",
+        "Department": "HR",
+        "Risk Level": "Medium",
+        "Security Status": "Secure"
+    },
+    {
+        "Asset ID": "A102",
+        "Asset Name": "Web-Server",
+        "Asset Type": "Server",
+        "IP Address": "192.168.1.20",
+        "Operating System": "Ubuntu",
+        "Department": "IT",
+        "Risk Level": "Critical",
+        "Security Status": "Vulnerable"
+    }
+]
